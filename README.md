@@ -136,7 +136,11 @@ In addition to the Applied option, you can choose the Systems option, which is a
          
             <a href="https://www.pdx.edu/computer-science/undergraduate">
         <img src="https://www.pdx.edu/themes/custom/pdxd8/psulogo_horiz-spot.svg" height="233" width="350"> </a>
-        ""
+        "Our undergraduate programs in Computer Science are designed to provide students with the educational background to pursue professional and academic opportunities in the computing industry. The programs blend a core of programming languages and theory courses with a selection of elective courses over a wide range of CS topics.
+
+Admission to the CS upper division program, at the junior level, is contingent upon a students completion and success of the admission requirements. Those who are admitted will move forward with the undergraduate program. Those not admitted will be blocked from registering for upper division and/or graduate CS courses. 
+
+The computer science curriculum at Portland State University is accredited by the Computing Accreditation Commission of ABET. This national organization sets standards for computer science education defined in terms of curricular content, quality of faculty, and adequacy of facilities"
 
 
           </p><br>
