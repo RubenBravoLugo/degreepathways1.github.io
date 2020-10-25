@@ -115,7 +115,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
          <a href="https://eecs.oregonstate.edu/undergraduate-programs/computer-science">
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Oregon_State_Beavers_logo.svg/1200px-Oregon_State_Beavers_logo.svg.png" height="233" width="350"> </a>
-                                         "Oregon State University offers the Applied option, through which you can choose different packages of courses to satisfy your Applied graduation requirements. For example, you can choose the cybersecurity package of courses, which you can complete wholly online (beginning Fall 2020), on-campus, or a mixture of both. Oregon State University delivers this B.S. in computer science 100% online through OSU Ecampus. Or you can satisfy the Applied option requirements by choosing from one of eight other packages (whose courses are all available on-campus and in many cases also available online). If none of these packages exactly match your interests, you can build your own custom package of courses.
+                                         ----------------------"Oregon State University offers the Applied option, through which you can choose different packages of courses to satisfy your Applied graduation requirements. For example, you can choose the cybersecurity package of courses, which you can complete wholly online (beginning Fall 2020), on-campus, or a mixture of both. Oregon State University delivers this B.S. in computer science 100% online through OSU Ecampus. Or you can satisfy the Applied option requirements by choosing from one of eight other packages (whose courses are all available on-campus and in many cases also available online). If none of these packages exactly match your interests, you can build your own custom package of courses.
 In addition to the Applied option, you can choose the Systems option, which is accredited by the Computing Accreditation Commission of ABET (in both Bachelors of Science degrees and in Honors Bachelors of Science degrees)."
 
           <hr>
@@ -125,7 +125,19 @@ In addition to the Applied option, you can choose the Systems option, which is a
 
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>degree pathway 2</h6>
 
-          
+                   
+            <a href="https://www.pdx.edu/computer-science/undergraduate">
+        <img src="https://www.pdx.edu/themes/custom/pdxd8/psulogo_horiz-spot.svg" height="233" width="350"> </a>
+        -----------------------------"Our undergraduate programs in Computer Science are designed to provide students with the educational background to pursue professional and academic opportunities in the computing industry. The programs blend a core of programming languages and theory courses with a selection of elective courses over a wide range of CS topics.
+
+Admission to the CS upper division program, at the junior level, is contingent upon a students completion and success of the admission requirements. Those who are admitted will move forward with the undergraduate program. Those not admitted will be blocked from registering for upper division and/or graduate CS courses. 
+
+The computer science curriculum at Portland State University is accredited by the Computing Accreditation Commission of ABET. This national organization sets standards for computer science education defined in terms of curricular content, quality of faculty, and adequacy of facilities"
+
+
+
+
+
           <p> degrees path way 2 </p>
           <hr>
         </div>
@@ -133,14 +145,6 @@ In addition to the Applied option, you can choose the Systems option, which is a
          
 
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> </h6>
-         
-            <a href="https://www.pdx.edu/computer-science/undergraduate">
-        <img src="https://www.pdx.edu/themes/custom/pdxd8/psulogo_horiz-spot.svg" height="233" width="350"> </a>
-        "Our undergraduate programs in Computer Science are designed to provide students with the educational background to pursue professional and academic opportunities in the computing industry. The programs blend a core of programming languages and theory courses with a selection of elective courses over a wide range of CS topics.
-
-Admission to the CS upper division program, at the junior level, is contingent upon a students completion and success of the admission requirements. Those who are admitted will move forward with the undergraduate program. Those not admitted will be blocked from registering for upper division and/or graduate CS courses. 
-
-The computer science curriculum at Portland State University is accredited by the Computing Accreditation Commission of ABET. This national organization sets standards for computer science education defined in terms of curricular content, quality of faculty, and adequacy of facilities"
 
 
           </p><br>
