@@ -2,8 +2,6 @@
 # degreepathways1.github.io
 
 
-c
-,kbbj
  
 <html lang="en">
   <head>
@@ -116,8 +114,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 
          <a href="https://eecs.oregonstate.edu/undergraduate-programs/computer-science">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Oregon_State_Beavers_logo.svg/1200px-Oregon_State_Beavers_logo.svg.png" height="233" width="144"> </a>
-          
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Oregon_State_Beavers_logo.svg/1200px-Oregon_State_Beavers_logo.svg.png" height="233" width="180"> </a>
+          OSU cascades offers 
 
           <hr>
         </div>
@@ -126,9 +124,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>other</h6>
 
-          <iframe src="https://editor.p5js.org/rubenbravolugo/embed/nOFV8tKJV"></iframe>
-
-
+          
           <p> Mastermind Game </p>
           <hr>
         </div>
