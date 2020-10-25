@@ -114,7 +114,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 
          <a href="https://eecs.oregonstate.edu/undergraduate-programs/computer-science">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Oregon_State_Beavers_logo.svg/1200px-Oregon_State_Beavers_logo.svg.png" height="233" width="250"> </a>
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Oregon_State_Beavers_logo.svg/1200px-Oregon_State_Beavers_logo.svg.png" height="233" width="350"> </a>
           Oregon State University offers the Applied option, through which you can choose different packages of courses to satisfy your Applied graduation requirements. For example, you can choose the cybersecurity package of courses, which you can complete wholly online (beginning Fall 2020), on-campus, or a mixture of both. Oregon State University delivers this B.S. in computer science 100% online through OSU Ecampus. Or you can satisfy the Applied option requirements by choosing from one of eight other packages (whose courses are all available on-campus and in many cases also available online). If none of these packages exactly match your interests, you can build your own custom package of courses.
 In addition to the Applied option, you can choose the Systems option, which is accredited by the Computing Accreditation Commission of ABET (in both Bachelors of Science degrees and in Honors Bachelors of Science degrees).
 
