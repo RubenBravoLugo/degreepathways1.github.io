@@ -147,7 +147,7 @@ The computer science curriculum at Portland State University is accredited by th
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> </h6>
 
 
-          </p><br>
+          <br>
         </div>
       </div>
 
